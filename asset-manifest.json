@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/myrestaurant/static/css/main.b09dd621.css",
+    "main.js": "/myrestaurant/static/js/main.05197d25.js",
+    "static/js/787.8d34c7c6.chunk.js": "/myrestaurant/static/js/787.8d34c7c6.chunk.js",
+    "static/media/chickenmasala.jpg": "/myrestaurant/static/media/chickenmasala.ee61c7b3c7b0c07d09c3.jpg",
+    "static/media/mushroom.jpg": "/myrestaurant/static/media/mushroom.be0a38146f1b4784e1ea.jpg",
+    "static/media/paneer.jpg": "/myrestaurant/static/media/paneer.0d22dff15dd86d93c1a0.jpg",
+    "static/media/fish.jpg": "/myrestaurant/static/media/fish.6fbb46dca9751eb5b1ce.jpg",
+    "static/media/masala.jpg": "/myrestaurant/static/media/masala.b6802ac58aed22bc8743.jpg",
+    "static/media/chhola.jpg": "/myrestaurant/static/media/chhola.a0849a919ec1854870ca.jpg",
+    "static/media/logo.svg": "/myrestaurant/static/media/logo.7f0cf735b1cd53ae5f835ffee52a7063.svg",
+    "index.html": "/myrestaurant/index.html",
+    "main.b09dd621.css.map": "/myrestaurant/static/css/main.b09dd621.css.map",
+    "main.05197d25.js.map": "/myrestaurant/static/js/main.05197d25.js.map",
+    "787.8d34c7c6.chunk.js.map": "/myrestaurant/static/js/787.8d34c7c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b09dd621.css",
+    "static/js/main.05197d25.js"
+  ]
+}
