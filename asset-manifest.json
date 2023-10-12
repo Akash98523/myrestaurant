@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/myrestaurant/static/css/main.b09dd621.css",
-    "main.js": "/myrestaurant/static/js/main.94ddb8b3.js",
+    "main.js": "/myrestaurant/static/js/main.a236cc54.js",
     "static/js/787.8d34c7c6.chunk.js": "/myrestaurant/static/js/787.8d34c7c6.chunk.js",
     "static/media/chickenmasala.jpg": "/myrestaurant/static/media/chickenmasala.ee61c7b3c7b0c07d09c3.jpg",
     "static/media/mushroom.jpg": "/myrestaurant/static/media/mushroom.be0a38146f1b4784e1ea.jpg",
@@ -12,11 +12,11 @@
     "static/media/logo.svg": "/myrestaurant/static/media/logo.7f0cf735b1cd53ae5f835ffee52a7063.svg",
     "index.html": "/myrestaurant/index.html",
     "main.b09dd621.css.map": "/myrestaurant/static/css/main.b09dd621.css.map",
-    "main.94ddb8b3.js.map": "/myrestaurant/static/js/main.94ddb8b3.js.map",
+    "main.a236cc54.js.map": "/myrestaurant/static/js/main.a236cc54.js.map",
     "787.8d34c7c6.chunk.js.map": "/myrestaurant/static/js/787.8d34c7c6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b09dd621.css",
-    "static/js/main.94ddb8b3.js"
+    "static/js/main.a236cc54.js"
   ]
 }
